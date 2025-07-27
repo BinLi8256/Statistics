@@ -14,3 +14,6 @@ Penn State University offers free and valuable resources at https://online.stat.
 - 📚 Mathematical Statistics 
 - 📈 Applied Time Series 
 - etc...
+
+## Other Open Sources
+- 
