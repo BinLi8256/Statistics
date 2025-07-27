@@ -10,6 +10,8 @@ This part includes my notes and code for a range of statistical topics. My notes
 ## Penn State Online Courses
 
 Penn State University offers free and valuable resources at https://online.stat.psu.edu/statprogram/graduate-programs. I use it to review some topics that I learned at Graduate School. These are
-- Probability Theory
+- Probability Theory :dice:
+
 - Mathematical Statistics
 - Applied Time Series
+- etc.
